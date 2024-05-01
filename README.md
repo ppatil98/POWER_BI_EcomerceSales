@@ -1,6 +1,6 @@
 # power_bi_project
 
-Sure, let's break down your project into those four main aspects:
+let's break down my project into those five main aspects:
 
 A) The Problem Faced by the Online E-commerce Sales Company:
 
